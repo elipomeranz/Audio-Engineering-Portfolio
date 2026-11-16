@@ -57,9 +57,9 @@ Elinor Processed Recording_Voice Cloning Preparation.mp3
 
 Selected experiments exploring AI-assisted voice and audio workflows.
 
-Elinor Voice Cloning_ElevenLabs.wav
-Elinor Voice Changer_ElevenLabs_El faraon.wav
-
+- Elinor Voice Cloning_ElevenLabs.wav
+- Elinor Voice Changer_ElevenLabs_El faraon.wav
+- Elinor Voice Changer_ElevenLabs.wav
 
 ## Production Tools
 
