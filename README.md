@@ -41,7 +41,7 @@ Elinor Audio Portfolio - Promotional Trailer Production.mp3
 
 This comparison demonstrates how careful processing can improve clarity, consistency and intelligibility while preserving the natural character of a voice.
 
-- Raw recording: [Add audio file]
+- Raw recording: Elinor Raw Recording.wav
 - Processed version: [Add audio file]
 
 ### 04 — AI-Ready Voice Recording
