@@ -32,7 +32,7 @@ Elinor Audio Portfolio - Radio Imaging & Station Identity.mp3
 **Role:** Voice production, editing, sound design and final mix  
 **Tools:** Avid Pro Tools, Waves Plugins
 
-[Audio sample to be added]
+Elinor Audio Portfolio - Promotional Trailer Production.mp3
 
 ### 03 — Voice Processing: Raw vs. Processed
 **Project type:** Voice recording and audio post-production  
