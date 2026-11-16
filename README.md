@@ -25,7 +25,7 @@ This portfolio presents selected examples of my work and experiments, highlighti
 **Role:** Audio production, sound design, editing and mixing  
 **Tools:** Avid Pro Tools, Waves Plugins
 
-Elinor Audio Portfolio - Promotional Trailer Production.mp3
+Elinor Audio Portfolio - Radio Imaging & Station Identity.mp3
 
 ### 02 — Promotional Trailer Production
 **Project type:** Radio promo / Trailer  
