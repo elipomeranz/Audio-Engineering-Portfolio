@@ -25,7 +25,7 @@ This portfolio presents selected examples of my work and experiments, highlighti
 **Role:** Audio production, sound design, editing and mixing  
 **Tools:** Avid Pro Tools, Waves Plugins
 
-Elinor Audio Portfolio - Radio Imaging & Station Identity.mp3
+[Listen to Radio Imaging](./02_Radio_Imaging_Station_Identity.mp3)
 
 ### 02 — Promotional Trailer Production
 **Project type:** Radio promo / Trailer  
