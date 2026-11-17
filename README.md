@@ -59,7 +59,7 @@ Selected experiments exploring AI-assisted voice and audio workflows.
 
 - Elinor Voice Cloning_ElevenLabs.wav
 - Elinor Voice Changer_ElevenLabs_El faraon.wav
-- Elinor Voice Changer_ElevenLabs.wav
+- [Listen to my Voice Changer with ElevenLabs](./06_Voice_Changer_ElevenLabs.wav)
 
 ## Production Tools
 
