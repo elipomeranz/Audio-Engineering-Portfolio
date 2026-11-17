@@ -42,7 +42,7 @@ This portfolio presents selected examples of my work and experiments, highlighti
 This comparison demonstrates how careful processing can improve clarity, consistency and intelligibility while preserving the natural character of a voice.
 
 - [Listen to my raw voice recording](./03_Raw_Voice_Recording.wav)
-- Processed version: Elinor Processed Recording.mp3
+- [Listen to my processed voice recording](./04_Processed_Voice_Recording.mp3)
 
 ### 04 — AI-Ready Voice Recording
 **Project type:** Voice preparation for AI applications  
