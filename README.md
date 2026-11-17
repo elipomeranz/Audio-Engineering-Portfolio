@@ -49,7 +49,7 @@ This comparison demonstrates how careful processing can improve clarity, consist
 **Role:** Recording, editing and preparation of clean voice audio  
 **Tools:** Avid Pro Tools
 
-Elinor Processed Recording_Voice Cloning Preparation.mp3
+[Listen to AI-ready Voice Recording](./05_Voice_Cloning_Preparation.mp3)
 
 ### 05 — AI Audio Exploration
 **Project type:** AI voice and audio experimentation  
