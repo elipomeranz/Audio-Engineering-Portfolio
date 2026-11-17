@@ -57,7 +57,7 @@ This comparison demonstrates how careful processing can improve clarity, consist
 
 Selected experiments exploring AI-assisted voice and audio workflows.
 
-- Elinor Voice Cloning_ElevenLabs.wav
+- [Listen to my Voice Cloning with ElevenLabs](./08_Voice_Cloning_ElevenLabs.wav)
 - [Listen to my Voice Changer with ElevenLabs using the voice El Faraon](./07_Voice_Changer_ElevenLabs_El faraon.wav)
 - [Listen to my Voice Changer with ElevenLabs](./06_Voice_Changer_ElevenLabs.wav)
 
